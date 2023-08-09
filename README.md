@@ -46,4 +46,4 @@ Only linear regression
 
 <img src=https://github.com/Bovi-analytics/Chen-et-al-2023a/blob/a4dd896569e5796d200f8bf0462798af3055ae8c/Table%20A7%20decay%20models%20for%20two%20parity%20groups.png width=70% height=70%>
 
-<img src=https://github.com/Bovi-analytics/Chen-et-al-2023a/blob/a4dd896569e5796d200f8bf0462798af3055ae8c/Table%20A8%20Cut-off%20value.png width=70% height=70%>
+<img src=https://github.com/Bovi-analytics/Chen-et-al-2023a/blob/36981f7ba21376d0cd7ead1a55ef60150312e2d2/Table%20A8%20Cut-off%20value.png width=70% height=70%>
